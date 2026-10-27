@@ -2,7 +2,6 @@ package main
 
 import "fmt"
 
-// 1. Estructura Producto
 type Producto struct {
 	ID       int
 	Nombre   string
