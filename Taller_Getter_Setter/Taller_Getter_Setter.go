@@ -100,6 +100,6 @@ func main() {
 	}
 
 	tienda.EliminarProducto(2)
-	fmt.Println("\nInventario después de eliminar el ID 2:")
+	fmt.Println("Inventario después de eliminar el ID 2:")
 	tienda.ListarProductos()
 }
